@@ -7,7 +7,7 @@ March 2025
 - PR: [https://github.com/ruyisdk/support-matrix/pull/203](https://github.com/ruyisdk/support-matrix/pull/203)
   - Update Deepin 25 test reports for Milk-V Mars
   - Update Ubuntu LTS test report for Milk-V Mars.
-- PR: [https://github.com/ruyisdk/support-matrix/pull/210](https://github.com/ruyisdk/support-matrix/pull/203)
+- PR: [https://github.com/ruyisdk/support-matrix/pull/210](https://github.com/ruyisdk/support-matrix/pull/210)
   - Add eweOS test reports for Milk-V Mars.
 
 ## GNU toolchain test
