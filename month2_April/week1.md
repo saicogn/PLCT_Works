@@ -4,10 +4,6 @@
 
 ## suport matrix
 
-- PR: [https://github.com/ruyisdk/support-matrix/pull/216](https://github.com/ruyisdk/support-matrix/pull/216)
-  - Add Fedora test reports for Mars.
-  - Update Debian test reports for Mars.
-  - fix some typos.
 - PR: [https://github.com/ruyisdk/support-matrix/pull/260](https://github.com/ruyisdk/support-matrix/pull/260)
   - Add Guix test reports for Mars
   - Update Ubuntu test reports for Mars.
